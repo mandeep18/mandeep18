@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mandeep18" alt="mandeep18" /></a> </p>
 
-- 🌱 I’m currently learning **Android, Kotlin**
+- 🌱 I’m currently working with **Android, Kotlin, Jetpack Compose**
 
 - 💬 Ask me about **Cyber Security, Reverse Engineering, Malware Analysis and App Development.**
 
